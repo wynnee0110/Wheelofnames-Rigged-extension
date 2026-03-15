@@ -31,6 +31,17 @@ Once the extension is loaded, this tab should appear in the **top-left corner** 
 
 ---
 
+## ⚙️ Calibration
+
+**First Spin Required**
+
+The wheel may require **one initial spin** before the rigging feature works correctly.
+
+The first spin allows the extension to observe and calibrate the wheel's behavior, including spin physics and internal randomization. After this calibration step, the extension can accurately apply the correct offset needed to land on the selected entry.
+
+If the rigging does not activate on the first attempt, simply perform **one normal spin** and then try again.
+
+
 ## ⚠️ Limitations
 
 **Maximum Supported Entries: 100**
