@@ -18,6 +18,13 @@ Wheel of Names spin controller extension.
 5. Click **Load Unpacked**
 
 ---
+# on the top left corner this tab should show once unpacked
+![Preview](1.png)
+![Preview](2.png)
+
+
+
+---
 
 ## ⚠️ Limitations
 
@@ -30,6 +37,7 @@ This limitation exists due to the way the extension calculates offsets and patte
 
 **Recommendation:**
 For best performance and reliability, keep
+
 
 
 
