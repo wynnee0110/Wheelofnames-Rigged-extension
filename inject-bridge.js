@@ -30,7 +30,7 @@
     }
 
     function getOffset(n) {
-        // === Empirically verified ===
+        
         if (n < 7)  return 0.5;
         if (n < 13) return 0.5;
         if (n < 15) return 1.75;
@@ -51,7 +51,7 @@
         if (n < 42) return 11.5;
         if (n < 43) return 12.0;
         if (n < 44) return 12.5;
-        if (n < 45) return 12.75;  // n=44 was 1 slot off, +1.0
+        if (n < 45) return 12.75;  
         if (n < 46) return 13.0;
         if (n < 47) return 13.25;
         if (n < 48) return 13.5;
